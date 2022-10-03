@@ -1,5 +1,7 @@
 # Ukraine DAO project ideas
 
+[Atom feed](https://ukraine-dao.github.io/project-ideas/feed/projects.xml)
+
 Ideas for projects that Ukraine DAO currently has no resources to work on.
 
 If you have any other ideas - jump into `dev-chat` channel on our
