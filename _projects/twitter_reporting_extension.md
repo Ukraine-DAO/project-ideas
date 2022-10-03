@@ -1,6 +1,7 @@
 ---
 date: 2022-10-03
 author: imax
+title: Twitter reporting helper
 ---
 # Twitter reporting helper
 
